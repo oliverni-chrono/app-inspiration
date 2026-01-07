@@ -1,0 +1,7 @@
+{
+  "name": "ManifestAI - Your Cosmic Manifestation Coach",
+  "description": "A high-end AI manifestation companion that uses Gemini to generate personalized affirmations, visualize dreams with AI imagery, and provide guided manifestation audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
